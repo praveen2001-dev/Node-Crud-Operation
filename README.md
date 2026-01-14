@@ -1,11 +1,6 @@
-Bilkul 👍
-Yeh **ready-to-use README.md content** hai — aap direct copy-paste karke apne GitHub repo me daal sakte ho:
-
----
-
 # 🚀 Node CRUD Operation API
 
-This is a simple **Node.js + Express + MongoDB CRUD API project** where you can perform:
+This is a simple **Node.js + Express + CRUD API project** where you can perform:
 
 > ✅ Create
 > ✅ Read
@@ -31,8 +26,6 @@ operations using RESTful APIs.
 
 * Node.js
 * Express.js
-* MongoDB
-* Mongoose
 * Nodemon (for development)
 
 ---
@@ -79,17 +72,6 @@ cd Node-Crud-Operation
 
 ```bash
 npm install
-```
-
-### 4️⃣ MongoDB Setup
-
-Make sure MongoDB is running locally
-**OR** use MongoDB Atlas connection string in `db.js` or `.env` file.
-
-Example:
-
-```js
-mongoose.connect("mongodb://127.0.0.1:27017/crudDB");
 ```
 
 ### 5️⃣ Start Server
@@ -163,7 +145,6 @@ You can test APIs using:
 
 * Postman
 * Thunder Client (VS Code extension)
-* Insomnia
 
 ---
 
@@ -171,9 +152,7 @@ You can test APIs using:
 
 This project is useful for beginners to understand:
 
-* REST API
 * Express Routing
-* MongoDB with Mongoose
 * MVC Architecture
 
 ---
@@ -194,6 +173,3 @@ This project is useful for beginners to understand:
 GitHub: [https://github.com/praveen2001-dev](https://github.com/praveen2001-dev)
 
 ---
-
-Agar aap chaho to main aapke repo ke code ke hisaab se
-**exact API routes + model fields ke saath README customize** bhi kar dunga — bas bolo 👍
