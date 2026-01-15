@@ -4,7 +4,7 @@ var connection = mysql.createConnection({
     host: "localhost",
     user: "root",
     password: "",
-    database: "angular-crud",
+    database: "node-crud",
     charset: "utf8mb4"
 });
 connection.connect(function (err, res) {
